@@ -8,7 +8,7 @@
         printf("\n Enter Bill No. %d= ",i+101);
         scanf("%d",&bill[i]);
     }
-    printf("\n **************Bills Generated Today***************");
+    printf("\n **************Bills Generated Today**************");
     for(i=0; i<size; i++)
     {
         printf("\n Amount of %d Bill = %d",i+1,bill[i]);
