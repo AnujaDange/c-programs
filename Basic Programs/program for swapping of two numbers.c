@@ -12,6 +12,5 @@ int main()
     printf("\n=======Number After swapping=======");
     printf("\n     A=%d",a);
     printf("\n     B=%d",b);
-
     return(0);
 }
